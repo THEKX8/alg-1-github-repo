@@ -8,3 +8,4 @@ int main()
 { 
     cout << "Hello world!!!"; 
 }
+//g++ 1.cpp -o app
