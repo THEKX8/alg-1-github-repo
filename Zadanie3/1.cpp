@@ -372,7 +372,3 @@ int main(int argc, char* argv[]) {
 }
     return 0;
 }
-//g++ 1.cpp -o app
-//./app --fp1 vec1.txt --fp2 vec2.txt --op vv_sum --exp sum_data.txt
-//./app --fp1 vec1.txt --fp2 vec2.txt --op vv_sub --exp sub_data.txt
-//./app --matrix_fp1 mat1.txt --matrix_fp2 mat2.txt --op mm_sum --exp matrix_sum_res.txt
